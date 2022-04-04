@@ -1,4 +1,4 @@
-# Analyzing-and-Visualizting-Data
+# Analyzing-and-Visualizing-Data
 Analyzing US Economic Data and Building a Dashboard
 Extracting some essential economic indicators from some data, then displaying these economic indicators in a Dashboard and hosting the Dashboard in IBM object Storage.
 
